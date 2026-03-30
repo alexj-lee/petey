@@ -153,6 +153,43 @@ JOURNALS = [
     (2, 4, "Neurocomputing",                          "Neurocomputing",                           "cs"),   # IF ~6
     (2, 4, "Pattern Recognition Letters",             "Pattern Recognition Letters",              "cs"),   # IF ~5
 
+    # ── Tier 2 Neuroscience ─────────────────────────────────────────────────
+    (2, 2, "Trends in Neurosciences",                 "Trends in Neurosciences",                  "neuro"),  # IF ~17
+    (2, 3, "Progress in Neurobiology",                "Progress in Neurobiology",                 "neuro"),  # IF ~8
+    (2, 3, "NeuroImage",                              "NeuroImage",                               "neuro"),  # IF ~5
+    (2, 4, "Neuropharmacology",                       "Neuropharmacology",                        "neuro"),  # IF ~5
+    (2, 4, "NeuroImage: Clinical",                    "NeuroImage: Clinical",                     "neuro"),  # IF ~4
+    (2, 4, "Neurobiology of Disease",                 "Neurobiology of Disease",                  "neuro"),  # IF ~5
+    (2, 4, "Neurobiology of Aging",                   "Neurobiology of Aging",                    "neuro"),  # IF ~4
+    (2, 4, "Cortex",                                  "Cortex",                                   "neuro"),  # IF ~4
+    (2, 5, "Behavioural Brain Research",              "Behavioural Brain Research",               "neuro"),  # IF ~3
+    (2, 5, "Neuropsychologia",                        "Neuropsychologia",                         "neuro"),  # IF ~3
+    (2, 5, "Journal of Neuroscience Methods",         "Journal of Neuroscience Methods",          "neuro"),  # IF ~3
+
+    # ── Tier 2 Signal Processing ─────────────────────────────────────────────
+    (2, 4, "Signal Processing",                       "Signal Processing",                        "sig"),   # IF ~5
+    (2, 4, "Computer Speech & Language",              "Computer Speech Language",                 "sig"),   # IF ~4
+    (2, 5, "Signal Processing: Image Communication",  "Signal Processing: Image Communication",   "sig"),   # IF ~3
+    (2, 5, "Digital Signal Processing",               "Digital Signal Processing",                "sig"),   # IF ~3
+    (2, 5, "Speech Communication",                    "Speech Communication",                     "sig"),   # IF ~3
+
+    # ── Tier 2 Applied Math / Stats ──────────────────────────────────────────
+    (2, 4, "Journal of Computational Physics",        "Journal of Computational Physics",         "math"),  # IF ~4
+    (2, 4, "Applied Mathematics and Computation",     "Applied Mathematics and Computation",      "math"),  # IF ~4
+    (2, 4, "Communications in Nonlinear Science and Numerical Simulation",
+                                                      "Communications in Nonlinear Science and Numerical Simulation", "math"),  # IF ~4
+    (2, 5, "Journal of Computational and Applied Mathematics",
+                                                      "Journal of Computational and Applied Mathematics", "math"),  # IF ~2
+    (2, 5, "Applied Numerical Mathematics",           "Applied Numerical Mathematics",            "math"),  # IF ~3
+    (2, 5, "Applied Mathematics Letters",             "Applied Mathematics Letters",              "math"),  # IF ~3
+    (2, 5, "Journal of Differential Equations",       "Journal of Differential Equations",        "math"),  # IF ~3
+    (2, 5, "Computational Statistics & Data Analysis","Computational Statistics Data Analysis",   "stat"),  # IF ~2
+    (2, 5, "Journal of Statistical Planning and Inference",
+                                                      "Journal of Statistical Planning and Inference", "stat"),  # IF ~1
+    (2, 5, "Journal of Multivariate Analysis",        "Journal of Multivariate Analysis",         "stat"),  # IF ~2
+    (2, 5, "Stochastic Processes and their Applications",
+                                                      "Stochastic Processes and their Applications", "stat"),  # IF ~2
+
     # ══ Tier 3 ══ solid journals, 2010–present ════════════════════════════════
 
     # ── Tier 3 Biomedical ───────────────────────────────────────────────────
