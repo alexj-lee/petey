@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+
+# downloaded data (large)
+data/
+db/
+logs/
+__pycache__/
+*.pyc
+
+# generated outputs
+paper_histogram.png
+*.swp
